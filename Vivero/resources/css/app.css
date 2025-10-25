@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon {
+    svg {
+        width: 1.5rem;
+        height: 1.5rem;
+        display: inline-block;
+    }
+}
